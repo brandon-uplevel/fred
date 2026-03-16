@@ -1,5 +1,20 @@
 # Changelog
 
+## [2.3.1](https://github.com/mdn/fred/compare/v2.3.0...v2.3.1) (2026-03-16)
+
+
+### Bug Fixes
+
+* **l10n:** add missing docs page strings ([#1374](https://github.com/mdn/fred/issues/1374)) ([2a5892a](https://github.com/mdn/fred/commit/2a5892a9ec9b4b1c66d5e3cbe1a784f4e13ff678))
+* **l10n:** add missing documentation page strings ([2a5892a](https://github.com/mdn/fred/commit/2a5892a9ec9b4b1c66d5e3cbe1a784f4e13ff678))
+
+
+### Miscellaneous
+
+* **deps-dev:** bump @mdn/browser-compat-data from 7.3.6 to 7.3.7 ([#1383](https://github.com/mdn/fred/issues/1383)) ([f22d895](https://github.com/mdn/fred/commit/f22d8952150dd3a6650a399977dfd3021a1e253c))
+* **deps-dev:** bump the npm-dev group with 6 updates ([#1382](https://github.com/mdn/fred/issues/1382)) ([5422888](https://github.com/mdn/fred/commit/5422888b09daf645698454f86e35e01a5653dd15))
+* **deps-dev:** bump undici from 6.21.3 to 6.24.0 ([#1381](https://github.com/mdn/fred/issues/1381)) ([c6e7603](https://github.com/mdn/fred/commit/c6e76033d0b012496377ec8ed65b20e244e538c7))
+
 ## [2.3.0](https://github.com/mdn/fred/compare/v2.2.1...v2.3.0) (2026-03-12)
 
 
